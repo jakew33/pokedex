@@ -1,9 +1,9 @@
-import { PokemonControler } from "./controllers/PokemonController.js";
+import { PokemonController } from "./controllers/PokemonController.js";
 
 export const router = [
   {
     path: '',
-    controller: PokemonControler
+    controller: PokemonController
   },
  
 ]
